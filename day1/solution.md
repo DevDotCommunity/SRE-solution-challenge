@@ -181,7 +181,7 @@ done
 ### putting everthing all together 
 ```bash
 #!/bin/bash
-
+set -x
 # Function to display the menu
 display_menu() {
   echo "** System Health Check Script **"
