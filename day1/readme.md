@@ -38,4 +38,7 @@ If you have any questions or require assistance, feel free to reach out.
 
 Remember, every challenge you tackle brings you closer to becoming a proficient DevOps engineer. Embrace the learning process, collaborate with your peers, and enjoy the journey!
 
+## Check out my latest blog on Medium
+[My Medium Blog](https://medium.com/devdotcom/mastering-devops-with-shell-scripting-build-a-menu-based-system-health-check-script-b6ef49d57faa?sk=41f2211f9b7a2751e4d72f838e68bed1)
+
 Happy Learning!
